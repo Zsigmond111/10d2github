@@ -1,4 +1,4 @@
-h2{
+﻿h2{
   letter-spacing: 1px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -10,7 +10,7 @@ h2:first-letter {
 }
 
 p{
-  text-indent: 30px;
+  text-indent: 32px;
   text-align: justify;
 }
 
